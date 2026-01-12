@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rettangolo2pixel.vcxproj" Id="ca7cf041-b02e-457a-98ff-866f943b3437" />
+</Solution>
