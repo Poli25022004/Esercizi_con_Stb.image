@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RGBALPHA.vcxproj" Id="2c961224-9b63-49d8-8a50-30b443ac4d86" />
+</Solution>
