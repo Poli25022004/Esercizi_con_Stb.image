@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="contacolori.vcxproj" Id="e342ae47-5a73-4b78-b5a1-f84f235e11c7" />
+</Solution>
